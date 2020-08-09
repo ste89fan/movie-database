@@ -21,9 +21,20 @@
 
 .infoLabel {
   text-transform: capitalize;
+  font-weight: bold;
 }
 
 .infoSection {
   text-align: center;
   padding-top: 30px;
+}
+
+.infoSectionTitle {
+  text-transform: uppercase;
+}
+
+.infoFields {
+  margin-bottom: 15px;
+  border: 2px solid black;
+  padding: 20px;
 }
